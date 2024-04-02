@@ -95,7 +95,7 @@ namespace try4
                 MessageBox.Show("Lütfen önce başlangıç noktasını oluşturun!");
                 return;
             }
-            CreateFogLayer(); //----> -----------------------------------------------SİSİ KALDIRMAK İÇİN BURAYI SİLİN
+            CreateFogLayer();   //---->   -----------------------------------------------SİSİ KALDIRMAK İÇİN BURAYI SİLİN
             //DrawImageOnGrid(); // İzgaradaki her kareye resmi çizer ---->-----------------------------------------------  Aşağıdaki metodu aktif edebilirsiniz
             StartAnimation();
 
